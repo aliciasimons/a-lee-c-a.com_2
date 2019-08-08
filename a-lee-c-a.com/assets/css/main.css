@@ -1,0 +1,29 @@
+body {
+background-color: yellow;
+align-content: center;
+padding-left: :300pt;
+align:middle;
+padding-bottom: 300pt;
+
+}
+
+
+.type{
+  font-size: 10pt;
+  font-family: Courier10Pitch;
+  font-weight: normal;
+  font-style: normal;
+  padding-top: 100pt;
+  padding-left: 800pt;
+  text-align: left;
+
+}
+
+.class{
+    font-size: 10pt;
+    font-family: Courier10Pitch;
+    font-weight: normal;
+    font-style: normal;
+    padding-top: 100pt;
+    padding-left: 100pt;
+  }
